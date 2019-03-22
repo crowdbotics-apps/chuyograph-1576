@@ -1,0 +1,3 @@
+rootProject.name = 'chuyograph_1576'
+
+include ':app'
